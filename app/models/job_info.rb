@@ -1,0 +1,2 @@
+class JobInfo < ApplicationRecord
+end
